@@ -1,3 +1,6 @@
-# ILearn-QA-class
-First git for QA
-10/23/2022 - Testing Git 
+# ILearn-QA-class 
+👋 Hi, I’m @Bizuk
+👀 I’m interested in learning manual and automation software testing
+🌱 I’m currently learning about manual and automation software testing though ILearn
+💞️ I’m looking to collaborate on
+📫 How to reach me @Bizuk
